@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c3916b58-a0e5-510e-a063-83b409df4520
 resourcetype: Document
 title: rekefetsinai.pdf
 uid: 10c458be-bc60-83fc-e072-eb1eb3c66e51

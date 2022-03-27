@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c3916b58-a0e5-510e-a063-83b409df4520
 resourcetype: Document
 title: emilyambs.pdf
 uid: 8bfe437e-7bbd-9060-339a-3c85989d06d3

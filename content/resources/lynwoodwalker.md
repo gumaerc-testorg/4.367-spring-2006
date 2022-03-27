@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c3916b58-a0e5-510e-a063-83b409df4520
 resourcetype: Document
 title: lynwoodwalker.pdf
 uid: ee3d8517-bf80-239d-d0d4-50c3fe6a2f17

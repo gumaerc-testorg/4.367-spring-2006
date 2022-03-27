@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c3916b58-a0e5-510e-a063-83b409df4520
 resourcetype: Document
 title: rajeshkottamasu.pdf
 uid: a4fc7ba1-c5bc-27d4-489a-e8d5dbfe6327
