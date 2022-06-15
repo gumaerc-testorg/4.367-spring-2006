@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section provides information on student work required for class
+  production and their video presentations.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Notes
@@ -18,7 +20,7 @@ videos:
 
 As part of the class, a document was created for publication. It shows the work of all the students in the class, and presents an overarching view of the semester.
 
-Final Document (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9 MB]({{< baseurl >}}/resources/document))
+Final Document ({{% resource_link dbfb734a-b050-7986-2bb4-1d873c920d58 "PDF - 1.9 MB" %}})
 
 ### CAVS Lecture Series
 

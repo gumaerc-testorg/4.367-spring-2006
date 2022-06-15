@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists out the textbooks required for the duration of the
+  course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
