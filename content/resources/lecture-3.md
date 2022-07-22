@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: The Work of John Malpede and Harrell Fletcher'
 uid: 9d8eac02-f93d-8c2c-8826-d9f60cf2570c
 video_files:
@@ -17,3 +29,4 @@ video_metadata:
 Speakers: John Malpede, Harrell Fletcher
 
 April 27 2006
+

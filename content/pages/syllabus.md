@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the course syllabus and the readings
+  required for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2c807298-a9c5-704d-e9c4-12f11225e426
 ---
