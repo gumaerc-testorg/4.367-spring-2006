@@ -6,6 +6,7 @@ file: /courses/4-367-studio-seminar-in-public-art-spring-2006/f6a9bc30d0f1e2924c
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: jaysilver.pdf
 uid: f6a9bc30-d0f1-e292-4c8e-b3271f001586
 ---
 This resource provides information on the structure and components along with the work done by Jay Silver on the topic: Museum Within Walls, Components.
-

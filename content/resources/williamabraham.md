@@ -6,6 +6,7 @@ file: /courses/4-367-studio-seminar-in-public-art-spring-2006/0e706ff34e13da6117
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: williamabraham.pdf
 uid: 0e706ff3-4e13-da61-1724-cf8b5ece610b
 ---
 This resource provides information on the work done by William Abrahamson on the topic: Museum Archive of Urban Negotiations.
-

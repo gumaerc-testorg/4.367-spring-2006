@@ -6,6 +6,7 @@ file: /courses/4-367-studio-seminar-in-public-art-spring-2006/ddcf0b84b7d8fa4f04
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: oliverlutz.pdf
 uid: ddcf0b84-b7d8-fa4f-04fc-a1f75bab52bc
 ---
 This resource provides information on the work done by Oliver Lutz on the topic: Museum of Collapse.
-

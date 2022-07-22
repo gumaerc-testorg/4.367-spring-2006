@@ -6,6 +6,7 @@ file: /courses/4-367-studio-seminar-in-public-art-spring-2006/1b7858bbde97729620
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: marisajahn.pdf
 uid: 1b7858bb-de97-7296-2086-7d122f040616
 ---
 This resource provides information on the work done by Marisa Jahn on the topic: Museum of Aero-Botanical Indeterminacy.
-

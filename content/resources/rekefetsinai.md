@@ -6,6 +6,7 @@ file: /courses/4-367-studio-seminar-in-public-art-spring-2006/10c458bebc6083fce0
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: rekefetsinai.pdf
 uid: 10c458be-bc60-83fc-e072-eb1eb3c66e51
 ---
 This resource provides information on the work done by Rekefet Sinai on the topic: Museum of Security Borders.
-
