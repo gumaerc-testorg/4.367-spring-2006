@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource provides information on thw work done by Rajesh Kottamasu
   on the topic: Daily Museum of Amazement.'
 file: /courses/4-367-studio-seminar-in-public-art-spring-2006/a4fc7ba1c5bc27d4489ae8d5dbfe6327_rajeshkottamasu.pdf
+file_size: 460310
 file_type: application/pdf
 learning_resource_types:
 - Projects
