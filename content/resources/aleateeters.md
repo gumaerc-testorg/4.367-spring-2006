@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource provides information on the work done by Alea Teeters
   on the topic: Museum of Emotion.'
 file: /courses/4-367-studio-seminar-in-public-art-spring-2006/b54eedd21c3a96dcb3588e195870527c_aleateeters.pdf
+file_size: 507579
 file_type: application/pdf
 learning_resource_types:
 - Projects
