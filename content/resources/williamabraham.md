@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource provides information on the work done by William Abrahamson
   on the topic: Museum Archive of Urban Negotiations.'
 file: /courses/4-367-studio-seminar-in-public-art-spring-2006/0e706ff34e13da611724cf8b5ece610b_williamabraham.pdf
+file_size: 474293
 file_type: application/pdf
 learning_resource_types:
 - Projects
