@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information on the work done by Emily Ambs on
   the topic: Museum of Architectural Taste.'
-file: /courses/4-367-studio-seminar-in-public-art-spring-2006/8bfe437e7bbd9060339a3c85989d06d3_emilyambs.pdf
+file: /ol-ocw-studio-app/courses/4-367-studio-seminar-in-public-art-spring-2006/8bfe437e7bbd9060339a3c85989d06d3_emilyambs.pdf
 file_size: 419789
 file_type: application/pdf
 learning_resource_types:
