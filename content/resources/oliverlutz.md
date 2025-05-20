@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information on the work done by Oliver Lutz on
   the topic: Museum of Collapse.'
-file: /ol-ocw-studio-app/courses/4-367-studio-seminar-in-public-art-spring-2006/ddcf0b84b7d8fa4f04fca1f75bab52bc_oliverlutz.pdf
+file: /courses/4-367-studio-seminar-in-public-art-spring-2006/ddcf0b84b7d8fa4f04fca1f75bab52bc_oliverlutz.pdf
 file_size: 383208
 file_type: application/pdf
 learning_resource_types:
