@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information on the work done by Lynwood Walker
   on the topic: Museum of Vanitas.'
-file: /ol-ocw-studio-app/courses/4-367-studio-seminar-in-public-art-spring-2006/ee3d8517bf80239dd0d450c3fe6a2f17_lynwoodwalker.pdf
+file: /courses/4-367-studio-seminar-in-public-art-spring-2006/ee3d8517bf80239dd0d450c3fe6a2f17_lynwoodwalker.pdf
 file_size: 454451
 file_type: application/pdf
 learning_resource_types:
