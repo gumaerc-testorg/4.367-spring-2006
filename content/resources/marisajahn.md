@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information on the work done by Marisa Jahn on
   the topic: Museum of Aero-Botanical Indeterminacy.'
-file: /courses/4-367-studio-seminar-in-public-art-spring-2006/1b7858bbde97729620867d122f040616_marisajahn.pdf
+file: /ol-ocw-studio-app/courses/4-367-studio-seminar-in-public-art-spring-2006/1b7858bbde97729620867d122f040616_marisajahn.pdf
 file_size: 372354
 file_type: application/pdf
 learning_resource_types:
