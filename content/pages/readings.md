@@ -17,7 +17,7 @@ McShine, Kynaston. _The Museum as Muse: Artists Reflect_. New York, NY: Museum o
 
 Greenberg, Reesa, Bruce W. Ferguson, and Sandy Nairne, eds. _Thinking About Exhibitions_. New York, NY: Routledge, 1996. ISBN: 0415115892.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/museums-ruins) Crimp, Douglas. [_On the Museum's Ruins_](https://mitpress.mit.edu/books/museums-ruins). Cambridge, MA: MIT Press, 1993. ISBN: 0262032090.
+{{% resource_link "bf96adcd-736a-48ba-9015-2bbe007a860d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Crimp, Douglas. {{% resource_link "bf96adcd-736a-48ba-9015-2bbe007a860d" "_On the Museum's Ruins_" %}}. Cambridge, MA: MIT Press, 1993. ISBN: 0262032090.
 
 Putnam, James. _Art and Artifact: The Museum as Medium_. New York, NY: Thames & Hudson, 2001. ISBN: 0500237905.
 
